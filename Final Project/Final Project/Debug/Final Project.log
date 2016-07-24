@@ -1,0 +1,72 @@
+﻿  LocalizationSystem.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  OptionsMenu.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  MenuSystem.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Menu.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  MainMenu.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  ItemsMenu.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  BattleMenu.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  LevelManager.cpp
+  Level.cpp
+  EnemyLevelManager.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  EnemyLevel.cpp
+  ResetCaelEvent.cpp
+  NewGameEvent.cpp
+  MoveEvent.cpp
+  EventSystem.cpp
+  EventListener.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Event.cpp
+  ChangeMapEvent.cpp
+  ChangeLanguageEvent.cpp
+  GraphicsSystem.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\graphicssystem.h(19): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Generating Code...
+  Compiling...
+  AssetManager.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  AnimatedSprite.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  MapManager.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Map.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  UnitManager.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Unit.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Portal.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Enemy.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Cael.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Timer.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  SoundManager.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\soundmanager.h(19): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Point.cpp
+  PathFindingSystem.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  main.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Magic.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  InputSystem.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\inputsystem.h(19): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Game.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Credits.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Battle.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Attack.cpp
+c:\users\andrew\documents\github\allegrogame\final project\final project\timer.h(18): fatal error C1083: Cannot open include file: 'allegro.h': No such file or directory
+  Generating Code...

@@ -1,0 +1,7 @@
+*.suo
+allegrogame/Debug
+allegrogame/Release
+Final Project/Debug
+Final Project/Release
+*.VC.db
+*.opendb

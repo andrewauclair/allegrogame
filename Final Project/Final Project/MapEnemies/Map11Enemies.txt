@@ -1,0 +1,9 @@
+//Wandering
+Portal
+408
+235
+//Battle
+Satan
+600
+10
+//End

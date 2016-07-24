@@ -1,0 +1,25 @@
+New Game
+Load Game
+Options
+English
+Nihongo
+Sdrawkcab
+Attack
+Magic
+Items
+Potion
+Ether
+Back
+Game Over
+Save
+Quit
+Level
+Total EXP:
+Introduction Text
+End Game Text
+Sound
+Languages
+Easy
+Medium
+Hard
+Next
